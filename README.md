@@ -1,6 +1,6 @@
 # [Netflix Study](https://github.com/itummino/PortfolioProjects/blob/main/NetflixData.sql) 
 ## *The Evolution of Netflix Originals - Movies Edition*
-![image](/images/smallnetflix.jpg)
+![image](/netflix1.png)
 
 
 ### Sources/Procedure:
