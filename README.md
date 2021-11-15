@@ -1,5 +1,5 @@
 ![image](/netflix1.png)
-# *The Evolution of Netflix Originals - Movies Edition*
+# *The Evolution of Netflix Original Movies*
 
 
 ### Sources/Procedure:
