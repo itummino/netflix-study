@@ -18,8 +18,10 @@
 - Used a filter on the years I extracted from the Release Date to navigate through movie trends over time (created a year splitter in Power BI)
 
 ### Data Visualizations:
-- Created SQL views to store/condense the data in SSMS and then exported into Microsoft Power BI for data visualization as final analysis (linked below):
+- Created SQL views to store/condense the data in SSMS and then exported into Microsoft Power BI and Tableau for data visualization as final analysis (linked below):
 
 [Power BI - Netflix Study](https://app.powerbi.com/reportEmbed?reportId=e1e8cc0d-89df-456a-8363-a5adab85367e&autoAuth=true&ctid=2c94bed6-d675-4d3d-a53b-7b461fd6acc2&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D)
 - If you do not have a Microsoft Power BI account or are unable to view the above link (access issue) here is a non-interactive lower quality PDF of the dashboard that you can view:
-#### [Netflix Study](https://raw.githubusercontent.com/itummino/PortfolioProjects/main/images/Nextflix%20Study.PNG)
+#### [Power BI - Netflix Study](https://raw.githubusercontent.com/itummino/PortfolioProjects/main/images/Nextflix%20Study.PNG)
+
+[Tableau - Netflix Study](https://public.tableau.com/app/profile/isabel.tummino/viz/NetflixStudy/Dashboard1)
