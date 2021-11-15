@@ -1,5 +1,4 @@
-# [Netflix Study](https://github.com/itummino/PortfolioProjects/blob/main/NetflixData.sql) 
-## *The Evolution of Netflix Originals - Movies Edition*
+# *The Evolution of Netflix Originals - Movies Edition*
 ![image](/netflix1.png)
 
 
